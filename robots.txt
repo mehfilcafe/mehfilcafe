@@ -1,0 +1,21 @@
+# Mehfil Cafe - Robots Policy
+User-agent: *
+Allow: /
+Disallow: /scratch/
+Disallow: /*.json$
+
+# Googlebot & Bingbot specific settings
+User-agent: Googlebot
+Allow: /
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+User-agent: Bingbot
+Allow: /
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+
+# Authoritative Sitemap
+Sitemap: https://mehfilcafe.in/sitemap.xml

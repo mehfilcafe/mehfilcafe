@@ -1,0 +1,31 @@
+{
+  "name": "Mehfil Cafe - Specialty Coffee & Bites",
+  "short_name": "Mehfil Cafe",
+  "description": "Aesthetic friends & family chat spot serving artisanal brews, viral UFO burgers, loaded fries, and craft mojitos in Old Washermenpet, Royapuram, Chennai.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#120c08",
+  "theme_color": "#120c08",
+  "orientation": "portrait-primary",
+  "lang": "en-IN",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "food",
+    "lifestyle",
+    "restaurant"
+  ]
+}

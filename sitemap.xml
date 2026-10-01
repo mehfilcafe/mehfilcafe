@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mehfilcafe.in/</loc>
+    <lastmod>2026-09-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/logo.png</image:loc>
+      <image:title>Mehfil Cafe Signature Logo Chennai</image:title>
+      <image:caption>Mehfil Cafe logo, specialty coffee shop in Royapuram, Old Washermenpet, Chennai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/ambiance-bg.jpg</image:loc>
+      <image:title>Mehfil Cafe Ambience and Seating</image:title>
+      <image:caption>Warm cozy ambient seating and work friendly environment at Mehfil Cafe Chennai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/tea.jpg</image:loc>
+      <image:title>Artisanal Tea and Filter Coffee at Mehfil Cafe</image:title>
+      <image:caption>Freshly brewed hot teas, authentic South Indian filter coffee, and Sulaimani at Mehfil Cafe</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/classic%20fries.jpg</image:loc>
+      <image:title>Gourmet Appetizers and Fries</image:title>
+      <image:caption>Crispy peri-peri fries, cheese sauce fries, chicken loaded fries, and Mexican corn</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/UFP%20burger.jpg</image:loc>
+      <image:title>Viral UFO Burgers at Mehfil Cafe</image:title>
+      <image:caption>Signature saucer-pressed UFO zinger burgers and sweet dessert burgers in Chennai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/combo%20offers.png</image:loc>
+      <image:title>Mojito and Loaded Fries Combo Offers</image:title>
+      <image:caption>Value meal combos pairing craft sparkling mojitos with seasoned fries</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/mojito.jpg</image:loc>
+      <image:title>Handcrafted Sparkling Mojitos</image:title>
+      <image:caption>Virgin mojito, mint mojito, blue curaçao, green apple, watermelon, passion fruit, blueberry, piña colada, and bubble gum mojitos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://mehfilcafe.in/assets/menu/milkshakes.jpg</image:loc>
+      <image:title>Thick Gelato Milkshakes and Cold Drinks</image:title>
+      <image:caption>Avocado shake, chocolate shake, cold Milo, and artisanal cold coffee at Mehfil Cafe</image:caption>
+    </image:image>
+  </url>
+</urlset>
